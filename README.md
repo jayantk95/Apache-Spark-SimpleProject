@@ -1,5 +1,6 @@
 # Apache-Spark-SimpleProject
-# This is very basic project which count the number of times the given word exists in the dataset file.
+This is very basic project which count the number of times the given word exists in the dataset file.
+Add path to the your dataset file in simpleProject.scala
 To run it using sbt:
   1. Change directory to SimpleProject
   2. run sbt
