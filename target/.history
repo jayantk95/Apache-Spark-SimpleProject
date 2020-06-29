@@ -1,0 +1,52 @@
+librayDependencies
+libraryDependencies
+set libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.5"
+session save
+reload
+libraryDependencies
+set libraryDependencies += "org.apache.spark" % "spark-core_2.12" % "2.4.5"
+session save
+reload
+libraryDependencies
+exit
+compile
+run
+libraryDependencies
+compile
+run
+reload
+compile
+run
+last compile
+reload
+compile
+run
+run 10
+reload
+compile
+reload
+compile
+run 10
+compile
+run 
+package
+exit
+run
+exit
+compile
+run
+exit
+libraryDependencies
+compile
+run
+package
+compile
+run
+compile
+run
+compile
+run
+package
+exit
+compile
+run
